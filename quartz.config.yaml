@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: lukesobsidian.io/obsidian-notes
+  baseUrl: barlu3.github.io/obsidian-notes
   ignorePatterns:
     - private
     - templates
